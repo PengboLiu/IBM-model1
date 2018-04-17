@@ -1,8 +1,7 @@
 # IBM-model1
-The implementation of IBM model.  
+The implementation of IBM model1.  
 You can read [lecture-ibm-model1.pdf][1] for learning.
 ## Requirement
-
  1. python3.6
  2. nltk
 ## Data
