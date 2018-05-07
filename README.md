@@ -2,8 +2,8 @@
 The implementation of IBM model1.  
 You can read [lecture-ibm-model1.pdf][1] for learning.
 ## Requirement
- 1. python3.6
- 2. nltk
+ 1. Python3.6
+ 2. NLTK
 ## Data
 10k en-zh Parallel corpus 
 ## 
